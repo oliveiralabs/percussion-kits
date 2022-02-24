@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Dance Show",
+        "path": "online_kit_2",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/percussion-kits/master/2/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/percussion-kits/master/2/kit.percussion"
+    },
+    {
+        "name": "United States",
+        "path": "online_kit_3",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/percussion-kits/master/3/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/percussion-kits/master/3/kit.percussion"
+    }
+]
