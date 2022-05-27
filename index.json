@@ -1,11 +1,5 @@
 [
     {
-        "name": "Online Kit",
-        "path": "online_kit_1",
-        "coverUrl": "https://maurinei-miranda.github.io/percussion-kits/1/cover.png",
-        "zipUrl": "https://maurinei-miranda.github.io/percussion-kits/1/kit.percussion"
-    },
-    {
         "name": "Dance Show",
         "path": "online_kit_2",
         "coverUrl": "https://maurinei-miranda.github.io/percussion-kits/2/cover.png",
