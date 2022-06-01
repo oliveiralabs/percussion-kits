@@ -3,7 +3,7 @@
         "name": "Dance Show",
         "path": "online_kit_2",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/2/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/2/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/2/kit.percussion" 
     },
     {
         "name": "United States",
@@ -12,7 +12,7 @@
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/3/kit.percussion"
     },
     {
-        "name": "Online Kit 4",
+        "name": "Online Kit ABDF",
         "path": "online_kit_4",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/4/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/4/kit.percussion"
