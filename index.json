@@ -10,5 +10,11 @@
         "path": "online_kit_3",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/3/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/3/kit.percussion"
+    },
+    {
+        "name": "Red Congas",
+        "path": "online_kit_4",
+        "coverUrl": "https://oliveiralabs.github.io/percussion-kits/4/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/4/kit.percussion"
     }
 ]
