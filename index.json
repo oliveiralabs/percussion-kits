@@ -22,5 +22,11 @@
         "path": "online_kit_5",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/5/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/5/kit.percussion"
+    },
+    {
+        "name": "Brazilian Congas",
+        "path": "online_kit_6",
+        "coverUrl": "https://oliveiralabs.github.io/percussion-kits/6/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/6/kit.percussion"
     }
 ]
