@@ -3,61 +3,70 @@
         "name": "Dance Show",
         "path": "online_kit_2",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/2/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/2/kit.percussion" 
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/2/kit.percussion",
+        "version": "2"
     },
     {
         "name": "United States",
         "path": "online_kit_3",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/3/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/3/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/3/kit.percussion",
+        "version": "2"
     },
     {
         "name": "Red Congas",
         "path": "online_kit_4",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/4/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/4/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/4/kit.percussion",
+        "version": "2"
     },
     {
         "name": "Navy Blue Congas",
         "path": "online_kit_5",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/5/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/5/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/5/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 6",
+        "name": "Brazil",
         "path": "online_kit_6",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/6/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/6/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/6/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 7",
+        "name": "United States 2",
         "path": "online_kit_7",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/7/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/7/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/7/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 8",
+        "name": "Yellow Black",
         "path": "online_kit_8",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/8/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/8/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/8/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 9",
+        "name": "Africa",
         "path": "online_kit_9",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/9/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/9/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/9/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 10",
+        "name": "México",
         "path": "online_kit_10",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/10/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/10/kit.percussion"
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/10/kit.percussion",
+        "version": "2"
     },
     {
-        "name": "Online Kit 11",
+        "name": "Orange",
         "path": "online_kit_11",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/11/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/11/kit.percussion",
-        "version": "1"
+        "version": "2"
     }
 ]
