@@ -19,5 +19,12 @@
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/4/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/4/kit.percussion",
         "version": "3"
+    },
+    {
+        "name": "Farm",
+        "path": "online_kit_12",
+        "coverUrl": "https://oliveiralabs.github.io/percussion-kits/12/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/12/kit.percussion",
+        "version": "3"
     }
 ]
