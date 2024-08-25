@@ -26,5 +26,12 @@
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits/12/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/percussion-kits/12/kit.percussion",
         "version": "3"
+    },
+    {
+        "name": "Golden",
+        "path": "online_kit_13",
+        "coverUrl": "https://oliveiralabs.github.io/percussion-kits/13/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/percussion-kits/13/kit.percussion",
+        "version": "1"
     }
 ]
